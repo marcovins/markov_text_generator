@@ -71,4 +71,3 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhe
 ✨ Contribuições
 
 Sinta-se à vontade para abrir issues e pull requests! Qualquer melhoria ou sugestão é bem-vinda. 😊
-
